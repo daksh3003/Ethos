@@ -1,17 +1,17 @@
 
-# Krypt: Secure and Transparent Crypto Sending Platform
+# Ethos: A Secure and Transparent Crypto Sending Platform
 
-Krypt is a user-friendly platform that empowers you to seamlessly send cryptocurrency between wallets. It leverages the robust security of MetaMask, a leading crypto wallet extension, to ensure a smooth and reliable experience. With Krypt, you can:
+Ethos is a user-friendly platform that empowers you to seamlessly send cryptocurrency between wallets. It leverages the robust security of MetaMask, a leading crypto wallet extension, to ensure a smooth and reliable experience. With Ethos, you can:
 
-- **Connect Your MetaMask Wallet:** Effortlessly connect your MetaMask wallet to Krypt, granting you the ability to send crypto directly from your existing holdings.
-- **Send Crypto with Ease:** Enter the recipient's wallet address and the desired amount you wish to send. Krypt streamlines the transaction process, making it swift and convenient.
-- **Track Transaction History:** Maintain complete transparency over your crypto transactions. Krypt meticulously stores all your past transactions, allowing you to easily review them whenever needed.
+- **Connect Your MetaMask Wallet:** Effortlessly connect your MetaMask wallet to Ethos, granting you the ability to send crypto directly from your existing holdings.
+- **Send Crypto with Ease:** Enter the recipient's wallet address and the desired amount you wish to send. Ethos streamlines the transaction process, making it swift and convenient.
+- **Track Transaction History:** Maintain complete transparency over your crypto transactions. Ethos meticulously stores all your past transactions, allowing you to easily review them whenever needed.
 
 ## Note
 
 This lottery system is built using Solidity version 0.8.11.
 
-![image](./krypt2.png)
+![image](./Ethos2.png)
 
 ## Features
 
@@ -21,19 +21,19 @@ This lottery system is built using Solidity version 0.8.11.
 
 - **Transparency**: With blockchain technology, every transaction and lottery drawing is recorded on the blockchain, providing a transparent and immutable record of the entire lottery process. Users can verify the fairness of the lottery results at any time.
 
-![image](./krypt1.png)
+![image](./Ethos1.png)
 
 ## Project Structure
 
-Krypt is comprised of two main folders:
+Ethos is comprised of two main folders:
 
 - **client:** This folder houses the frontend application codebase built with React and leverages Vite for efficient building and development processes.
-- **contract:** This folder contains the Solidity smart contract code that defines the core functionality of Krypt's crypto sending logic. Additionally, it includes a Hardhat setup to facilitate easy deployment of the smart contract to a blockchain network.
+- **contract:** This folder contains the Solidity smart contract code that defines the core functionality of Ethos's crypto sending logic. Additionally, it includes a Hardhat setup to facilitate easy deployment of the smart contract to a blockchain network.
 
 
 ## Tech Stack
 
-Krypt utilizes a modern tech stack to deliver a performant and user-friendly experience:
+Ethos utilizes a modern tech stack to deliver a performant and user-friendly experience:
 
 - **Frontend:** React - A popular JavaScript library for building dynamic and interactive user interfaces.
 - **Styling:** Tailwind CSS - A utility-first CSS framework that streamlines the styling process.
@@ -50,10 +50,10 @@ Krypt utilizes a modern tech stack to deliver a performant and user-friendly exp
    - Node.js and npm (or yarn) installed on your system. These are required for both the client-side and contract development.
 
 2. **Setting Up the Development Environment:**
-   - Clone the Krypt repository from GitHub (link to be provided).
+   - Clone the Ethos repository from GitHub (link to be provided).
    - Navigate to the project directory:
      ```bash
-     cd krypt
+     cd Ethos
      ```
    - Install dependencies for the client-side application:
      ```bash
@@ -66,7 +66,7 @@ Krypt utilizes a modern tech stack to deliver a performant and user-friendly exp
      npm install (or yarn install)
      ```
 
-**Running Krypt Locally**
+**Running Ethos Locally**
 
 1. **Start the development server:**
    ```bash
@@ -80,15 +80,15 @@ Krypt utilizes a modern tech stack to deliver a performant and user-friendly exp
 
 ## Security Considerations
 
-- **MetaMask Security:** Krypt prioritizes security by delegating all wallet management and transaction signing to MetaMask, a well-established and secure crypto wallet extension.
+- **MetaMask Security:** Ethos prioritizes security by delegating all wallet management and transaction signing to MetaMask, a well-established and secure crypto wallet extension.
 - **Best Practices:** Always adhere to recommended security practices when using cryptocurrencies. These include:
    - Keeping your MetaMask seed phrase confidential (never share it with anyone).
-   - Utilizing strong and unique passwords for both Krypt and MetaMask.
+   - Utilizing strong and unique passwords for both Ethos and MetaMask.
    - Being cautious when interacting with dApps (decentralized applications).
 
 ## Disclaimer
 
 Cryptocurrency transactions are irreversible. Please exercise due diligence when sending crypto, as you cannot retrieve funds once a transaction is confirmed. Ensure you have the correct recipient's wallet address before proceeding.
 
-![image](./krypt3.png)
+![image](./Ethos3.png)
 
