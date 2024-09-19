@@ -11,7 +11,7 @@ Ethos is a user-friendly platform that empowers you to seamlessly send cryptocur
 
 This lottery system is built using Solidity version 0.8.11.
 
-![image](./ethos2.png)
+![image](./Ethos2.png)
 
 ## Features
 
@@ -21,7 +21,7 @@ This lottery system is built using Solidity version 0.8.11.
 
 - **Transparency**: With blockchain technology, every transaction and lottery drawing is recorded on the blockchain, providing a transparent and immutable record of the entire lottery process. Users can verify the fairness of the lottery results at any time.
 
-![image](./ethos1.png)
+![image](./Ethos1.png)
 
 ## Project Structure
 
@@ -90,5 +90,5 @@ Ethos utilizes a modern tech stack to deliver a performant and user-friendly exp
 
 Cryptocurrency transactions are irreversible. Please exercise due diligence when sending crypto, as you cannot retrieve funds once a transaction is confirmed. Ensure you have the correct recipient's wallet address before proceeding.
 
-![image](./ethos3.png)
+![image](./Ethos3.png)
 
