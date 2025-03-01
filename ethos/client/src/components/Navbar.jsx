@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-import logo from '../../images/ethosLogo.png';
+import logo from '../../public/images/ethosLogo.png';
 import { HiMenuAlt1 } from 'react-icons/hi';
 import { AiOutlineClose } from 'react-icons/ai';
 import { useState } from 'react';

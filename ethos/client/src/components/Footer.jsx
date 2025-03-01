@@ -1,4 +1,4 @@
-import logo from "../../images/ethosLogo.png";
+import logo from "../../public/images/ethosLogo.png";
 
 const Footer = () => (
   <div className="w-full flex md:justify-center justify-between items-center flex-col p-4 gradient-bg-footer">
